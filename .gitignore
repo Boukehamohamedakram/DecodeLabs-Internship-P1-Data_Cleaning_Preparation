@@ -52,6 +52,7 @@ vite.config.js.timestamp-*
 # Data & Reports
 data/raw/
 data/processed/
+!data/raw/DecodeLabs_Cleaned_Dataset.xlsx
 *.csv
 *.xlsx
 
